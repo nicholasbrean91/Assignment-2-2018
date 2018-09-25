@@ -59,8 +59,8 @@ public class RockPaperScissors {
 			
 			System.out.println("You Tie.");
 			System.out.println("You chose Scissors and the Computer chose Scissors.");
+		}else{
+			System.out.println("Something Did not work correctly. Please try again.");
 		}
-	
 	}
-
 }
